@@ -1,2 +1,1 @@
-# agenkartu
-Kartu
+# pricing-table
